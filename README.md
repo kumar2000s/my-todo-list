@@ -3,7 +3,9 @@
 how to buid and run
 
 Step-1: clone the repo
+
 Step-2: go to clone directory
+
 Step-3: cargo build --release
 
 ----------------------------------------------------

@@ -42,4 +42,4 @@ SUBCOMMANDS:
     
 Example to add task
     
-C:\my-todo-list\target\release> .\my-todo-list.exe -j mytodolist.json "my first task"
+my-todo-list.exe -j mytodolist.json "my first task"
